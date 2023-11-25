@@ -1,5 +1,5 @@
 # Bangla-Sentiment-Analysis
-Making for my personal presentation purpose. 
+
 Dependencies-
 
 1. Python nltk library
